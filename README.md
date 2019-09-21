@@ -7,7 +7,7 @@
 Enable simple and automated process using machine learning to trigger actionable analytics to predict highly probable loans defaults
 
 ### Open Data
-Dataset from PKDD'99 Discovery Challenge:
+Dataset from PKDD'99 Discovery Challenge:  
 https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm
 
 ### Toolset
