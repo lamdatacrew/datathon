@@ -4,7 +4,7 @@
 
 ### Actionable Analytics 
 
-Enable simple and automated process using machine learning to trigger actionable analytics to predict highly probable unpaid loan
+Enable simple and automated process using machine learning to trigger actionable analytics to predict highly probable loans defaults
 
 ### Open Data
 Dataset from PKDD'99 Discovery Challenge:
